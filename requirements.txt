@@ -1,0 +1,4 @@
+fleep
+ffmpeg-python
+readchar
+setuptools
